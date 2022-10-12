@@ -12,7 +12,7 @@
   "author": "Renan Frutuozo",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.25.4",
     "bcrypt": "^3.0.7",
     "dotenv": "^8.0.0",
     "global": "^4.4.0",
